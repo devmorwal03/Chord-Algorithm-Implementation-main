@@ -5,8 +5,6 @@ Implemented CHORD file system with eclipse attack
 
 **Implement CHORD Routing Protocol And perform Eclipse Attack**
 
-**-By Kushagra Khare -Roll No. : 20CS02004**
-
 **Question:**
 
 1. **Implement and simulate the CHORD algorithm of file sharing.**
